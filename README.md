@@ -62,7 +62,7 @@ All projects follow these principles throughout:
 
 - **Least privilege** — IAM roles and policies grant only the permissions required and nothing more
 - **Cost awareness** — each project documents the estimated monthly cost and which resources are free-tier eligible
-- **Clean teardown** — all resources can be fully deleted; no orphaned infrastructure left running
+- **Clean teardown** — all resources can be fully deleted; no infrastructure left running
 - **No hardcoded credentials** — all sensitive values are parameterised or stored in SSM Parameter Store
 
 ---
