@@ -25,7 +25,7 @@ operational best practices in mind.
 | Certification | Status |
 |---|---|
 | AWS Certified Cloud Practitioner | Achieved — Late 2024 |
-| AWS DevOps Engineer Associate | In progress — expected mid 2025 |
+| AWS DevOps Engineer Associate | In progress |
 
 ---
 
