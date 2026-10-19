@@ -34,6 +34,7 @@ operational best practices in mind.
 | Service | How I have used it |
 |---|---|
 | S3 | Static website hosting with bucket policies and access controls |
+| Terraform | Used to build and deploy infrastructure instead of the AWS console|
 | CloudFront | CDN distribution with HTTPS |
 | IAM | Least-privilege roles, policies, and permission boundaries |
 | VPC | Public and private subnet design with route tables and security groups |
