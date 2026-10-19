@@ -38,7 +38,9 @@ operational best practices in mind.
 | IAM | Least-privilege roles, policies, and permission boundaries |
 | VPC | Public and private subnet design with route tables and security groups |
 | EC2 | Launch templates, auto scaling groups, and load balancer configuration |
-| CloudWatch | Metric alarms, SNS notifications, and operational dashboards |
+| CloudWatch | Observability metrics and alarms, SNS notifications, and operational dashboards |
+| Postman | Automate event schedulers to start and stop services |
+| Lambda | Create event schedulers |
 
 ---
 
