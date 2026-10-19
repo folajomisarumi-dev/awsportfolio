@@ -41,7 +41,7 @@ operational best practices in mind.
 | EC2 | Launch templates, auto scaling groups, and load balancer configuration |
 | CloudWatch | Observability metrics and alarms, SNS notifications, and operational dashboards |
 | Postman | Automate event schedulers to start and stop services |
-| Lambda | Create event schedulers |
+| Lambda/Eventbridge | Create event schedulers |
 
 ---
 
